@@ -105,3 +105,5 @@ friends: [
         href: "http://www.jianshu.com/u/ebf5a212c8aa"
     }
 ]
+
+theme: jekyll-theme-hacker
