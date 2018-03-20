@@ -11,10 +11,9 @@ description: "test"
 #关键词 多个，逗号分隔
 keyword: "0, 1, 2"
 #博客地址
-url: "xmercenary2.github.io" 
+url: "https://xmercenary2.github.io" 
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-# you code repository
-github_repo: "https://github.com/xmercenary/xmercenary2.github.io.git" 
+github_repo: "" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
